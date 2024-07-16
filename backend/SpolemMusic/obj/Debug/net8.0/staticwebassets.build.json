@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gzIgQbDw7ApEt4POUG10xkP2nkJr2VVlycQ3mTkxLxw=",
+  "Source": "SpolemMusic.Server",
+  "BasePath": "_content/SpolemMusic.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
