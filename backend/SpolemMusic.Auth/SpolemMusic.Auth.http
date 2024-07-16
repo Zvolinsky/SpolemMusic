@@ -1,0 +1,6 @@
+@SpolemMusic.Auth_HostAddress = http://localhost:5227
+
+GET {{SpolemMusic.Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
